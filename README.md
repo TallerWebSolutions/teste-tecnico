@@ -36,4 +36,9 @@ Ao receber o teste lhe foi estipulado um prazo de entrega. Se você tiver algum 
 ##### Não foque na conclusão apenas
 Nosso objetivo aqui não é ter um sistema rodando - é conseguir analisar seu código, organização, e processo de desenvolvimento. É claro que ficará mais fácil fazer esse teste se pudermos ver tudo funcionando, mas indepentente disso nós *vamos* olhar o seu código.
 
-##### Nós lemos commits :)
+##### Entregáveis
+É imprescindível que após a entrega o teste esteja disponível online. Não vamos receber *zips* com o código por e-mail. Portanto, sugerímos que você publique seu código no GitHub - o que é gratuito - e nos envie o link do repositório por e-mail.
+
+Também é bastante importante podermos executar o sistema desenvolvido. Sugerímos que você disponibilize o sistema online, em algum dos vários locais onde é possível ter hospedagem gratuita. Como esse passo depende da linguagem e tecnologia que você estiver usando, não podemos lhe ajudar muito.
+
+**P.s.: Nós lemos commits :)**
